@@ -16,8 +16,7 @@
     
   1.4 Programas
     Instalar programas de diferentes formas, usando o comando sudo para acessar a APT, e pela loja de software do Ubuntu, apesar disso, ainda sofro pra instalar algumas coisas de qualquer maneira     rs.
-    ![Captura de tela de 2023-05-22 18-59-46](https://github.com/PauloCast/EP-SKY/assets/119449923/05cacc33-e9e7-4087-98ab-3248923980ad)
-    
+   
 2. Git
   Poder fazer alterações no projeto, criar novas versões, porém guardar a versão sem a modificação para conseguir voltar se for preciso. É uma ótima forma de organizar os projetos e códigos e ao mesmo tempo trabalhar em equipe de uma maneira mais facilitada.
   
@@ -44,4 +43,7 @@
     Função usada para ignorar certos arquivos, ou seja, não modificá-los ou publicá-los no projeto. Usar para arquivos não importantes, ou sensíveis como senhas.
     
   3.5 Pull Request
-    Funcionalidade do GitHub que permite que sejam feitas solicitações para alterar o código de um reposítório, cabendo ao dono do repositório revisar e aceitar ou não as alterações.![Captura de tela de 2023-05-22 19-33-34](https://github.com/PauloCast/EP-SKY/assets/119449923/5677ddef-5b06-4ab3-a209-161899b1fbf0)
+    Funcionalidade do GitHub que permite que sejam feitas solicitações para alterar o código de um reposítório, cabendo ao dono do repositório revisar e aceitar ou não as alterações.
+    
+    ![Captura de tela de 2023-05-22 19-44-02](https://github.com/PauloCast/EP-SKY/assets/119449923/fc1e3396-fcd6-4390-a7d2-50068cb78f11)
+
