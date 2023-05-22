@@ -45,5 +45,5 @@
   3.5 Pull Request
     Funcionalidade do GitHub que permite que sejam feitas solicitações para alterar o código de um reposítório, cabendo ao dono do repositório revisar e aceitar ou não as alterações.
     
-    ![Captura de tela de 2023-05-22 19-44-02](https://github.com/PauloCast/EP-SKY/assets/119449923/fc1e3396-fcd6-4390-a7d2-50068cb78f11)
+![Captura de tela de 2023-05-22 19-44-02](https://github.com/PauloCast/EP-SKY/assets/119449923/93f55cb2-add1-44c5-8671-1f8a99d9448f)
 
