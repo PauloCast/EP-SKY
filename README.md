@@ -8,6 +8,7 @@
   1.2 Diretórios que não devo mexer
    ![Captura de tela de 2023-05-22 19-35-17](https://github.com/PauloCast/EP-SKY/assets/119449923/dcfb6176-bc38-4b8d-aa02-18df3554f8b4)=250x250)
    ![Captura de tela de 2023-05-22 18-37-47](https://github.com/PauloCast/EP-SKY/assets/119449923/154c475e-f834-4572-9809-0012bf5b1c91)
+   
     Em geral, tomar cuidado com os que necessitam senha.
     
   1.3 Comandos
