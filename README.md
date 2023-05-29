@@ -13,9 +13,11 @@
     
   ### 1.3 Comandos 
   
-   ![Captura de tela de 2023-05-22 18-50-37](https://github.com/PauloCast/EP-SKY/assets/119449923/a00c7ce4-6a61-4c59-a809-33a1995f0bef)
-    Usei os comandos várias vezes, testando e familiriazando com a funcionalidade e sintaxe de cada um.
+  -ls: mostra os arquivos e diretórios de um determinado local.
+  
+   ![image](https://github.com/PauloCast/EP-SKY/assets/119449923/6eb417cc-ded9-4d4f-b06c-cd6e3bfeb554)
     
+  -cp: copia arquivos e diretórios de um local especificado para outro.
   1.4 Programas
     Instalar programas de diferentes formas, usando o comando sudo para acessar a APT, e pela loja de software do Ubuntu, apesar disso, ainda sofro pra instalar algumas coisas de qualquer maneira     rs.
    
