@@ -5,8 +5,8 @@
    Diferentemente do windows, não há partições, tudo é guardado em diretório e isso facilita o desenvolvimento de software e dificulta a invasão de Vírus.O linux trata todos os arquivos da mesma forma, independente do seu formato. Portanto, pode-se manipular fácilmente por comandos qualquer arquivo.
     
    *Diretórios que não deve-se mexer
-   (![Captura de tela de 2023-05-22 19-35-17](https://github.com/PauloCast/EP-SKY/assets/119449923/dcfb6176-bc38-4b8d-aa02-18df3554f8b4)=250x250)
-   ![Captura de tela de 2023-05-22 18-37-47](https://github.com/PauloCast/EP-SKY/assets/119449923/154c475e-f834-4572-9809-0012bf5b1c91)
+  ![Captura de tela de 2023-05-22 19-35-17](https://github.com/PauloCast/EP-SKY/assets/119449923/dcfb6176-bc38-4b8d-aa02-18df3554f8b4)
+  ![image](https://github.com/PauloCast/EP-SKY/assets/119449923/e0a98172-48e0-4271-8a74-79d7a1c0d6e8)
    Em geral, tomar cuidado com os que necessitam senha.
     
   1.3 Comandos
