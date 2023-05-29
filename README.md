@@ -1,6 +1,6 @@
 # EP-SKY
 ## 1. Linux
-  1.1 Arquivos
+  ### 1.1 Arquivos
     Funcionamento dos arquivos/diretórios no Linux/Ubuntu. Diferentemente do windows, não há partições, tudo é guardado em diretório e isso facilita o desenvolvimento de software e dificulta a invasão de Vírus.
     
   1.2 Diretórios que não devo mexer
