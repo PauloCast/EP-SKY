@@ -54,11 +54,11 @@
    
    ![image](https://github.com/PauloCast/EP-SKY/assets/119449923/a4e71136-cdee-40f2-ad7f-60daa52f0842)
 
-  3.4 GitIgnore
-    Função usada para ignorar certos arquivos, ou seja, não modificá-los ou publicá-los no projeto. Usar para arquivos não importantes, ou sensíveis como senhas.
+ ### 3.4 GitIgnore
+   Função usada para ignorar certos arquivos, ou seja, não modificá-los ou publicá-los no projeto. Usar para arquivos não importantes, ou sensíveis como senhas.
     
-  3.5 Pull Request
-    Funcionalidade do GitHub que permite que sejam feitas solicitações para alterar o código de um reposítório, cabendo ao dono do repositório revisar e aceitar ou não as alterações.
+ ### 3.5 Pull Request
+   Funcionalidade do GitHub que permite que sejam feitas solicitações para alterar o código de um reposítório, cabendo ao dono do repositório revisar e aceitar ou não as alterações.
     
 ![Captura de tela de 2023-05-22 19-44-02](https://github.com/PauloCast/EP-SKY/assets/119449923/93f55cb2-add1-44c5-8671-1f8a99d9448f)
 
