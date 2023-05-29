@@ -52,7 +52,7 @@
  ### 3.2 Gitmoji
    Um gitmoji tem como objetivo informar antes da mensagem sobre qual ação foi feita no código durante a modificação.
    
-   ![image](https://github.com/PauloCast/EP-SKY/assets/119449923/a4e71136-cdee-40f2-ad7f-60daa52f0842)
+  ![image](https://github.com/PauloCast/EP-SKY/assets/119449923/a4e71136-cdee-40f2-ad7f-60daa52f0842)
 
  ### 3.4 GitIgnore
    Função usada para ignorar certos arquivos, ou seja, não modificá-los ou publicá-los no projeto. Usar para arquivos não importantes, ou sensíveis como senhas.
